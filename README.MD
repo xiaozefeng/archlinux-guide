@@ -4,7 +4,7 @@
 
 https://www.archlinux.org/download/
 
-打开链接找到 China , 
+打开链接找到 China , 下面有很多国内的镜像
 
 ## 烧录启动盘
 
