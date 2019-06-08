@@ -272,3 +272,10 @@ reboot
 
 **拔掉U盘**
 
+## 安装 gnome 桌面
+[https://github.com/xiaozefeng/archlinux-guide/blob/master/install_xorg_gnome.md](https://github.com/xiaozefeng/archlinux-guide/blob/master/install_xorg_gnome.md)
+
+## 其他问题
+1. 遇到重启后连不上网请参考 [https://github.com/xiaozefeng/archlinux-guide/issues/19](https://github.com/xiaozefeng/archlinux-guide/issues/19)
+
+**建议多逛逛issues, 平时我遇到的问题都会记录在那边**
